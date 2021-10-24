@@ -1,10 +1,10 @@
 # Filter Data Object
 
-Filter Object is a Javascript library for dealing filter of the array object.
+Filter Data Object is a Javascript library for dealing filter based on the contents of an existing array of the array object.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/package/map-data-object) to install map-data-object.
+Use the package manager [npm](https://www.npmjs.com/package/map-data-object) to install filter-data-object.
 
 ```bash
 npm i filter-data-object
