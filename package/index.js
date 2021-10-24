@@ -1,4 +1,4 @@
-function getFilteredDataObject(arrayData=[],key='',search,exact)
+function getFilteredDataObject(arrayData=[],key='',search,exact=false)
 {
     const data = arrayData.filter(res=>{
         if(exact) return res[key]===search

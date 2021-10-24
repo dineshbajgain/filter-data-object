@@ -10,4 +10,4 @@ const objectSet = [
         "id": 2,
         "title": "qui est esse",
     }]
-console.log(filterDataObject(objectSet,'title','sunt',false))
+console.log(filterDataObject(objectSet,'title','qui est esse',true))
