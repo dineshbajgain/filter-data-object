@@ -16,16 +16,16 @@ npm i filter-data-object
 const filterObject = require("filter-data-object");
 
 const objectSet = [
-  {
-    userId: 2,
-    id: 1,
-    title: "sunt aut facere",
-  },
-  {
-    userId: 2,
-    id: 2,
-    title: "qui est esse",
-  },
+    {
+        userId: 2,
+        id: 1,
+        title: "sunt aut facere",
+    },
+    {
+        userId: 2,
+        id: 2,
+        title: "qui est esse",
+    },
 ];
 console.log(mapObject(objectSet, ["id", "title"]));
 ```
