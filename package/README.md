@@ -1,6 +1,6 @@
 # Filter Data Object
 
-Filter Object is a Javascript library for dealing format of the array object.
+Filter Object is a Javascript library for dealing filter of the array object.
 
 ## Installation
 
